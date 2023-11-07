@@ -51,10 +51,10 @@ ScrollReveal().reveal('.home-content p, .about-content, .portfolio-box', { origi
 
 
 /*==================== typed js ====================*/
-const typed = new Typed ('.multilpe-text', {
+const typed = new Typed ('.multilpe-text',{
     strings: ['Software Engineering Student','Designer', 'Blogger'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
     loop: true
-})
+});

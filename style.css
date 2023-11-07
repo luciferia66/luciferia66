@@ -12,8 +12,8 @@
 :root {
     --bg-color: #171718;
     --second-bg-color: #323946;
-    --text-color: #ffffff;
-    --main-color: rgb(233, 0, 0);
+    --text-color: #eeff00;
+    --main-color: rgb(0, 198, 233);
 }
 
 html {
